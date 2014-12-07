@@ -1,6 +1,6 @@
 # waves
 
-waves demo
+GLSL waves demo
 
 ## Installation
 ```sh
