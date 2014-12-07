@@ -1,0 +1,21 @@
+{
+  "name": "waves",
+  "version": "1.0.0",
+  "repository": "components",
+  "description": "waves",
+  "README": "waves",
+  "dependencies": {
+    "a-big-triangle": "^1.0.0",
+    "canvas-fit": "^1.2.0",
+    "gl-context": "^0.1.1",
+    "gl-geometry": "^1.0.2",
+    "gl-mat4": "^1.0.1",
+    "glslify": "^1.6.0",
+    "glslify-hex": "^1.0.0"
+  },
+  "browserify": {
+    "transform": [
+      "glslify"
+    ]
+  }
+}
